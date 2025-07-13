@@ -1,1 +1,1 @@
-https://github.com/Pixel-42-official/posmotri-v-okno-fd.git
+https://github.com/Crombex/posmotri-v-okno-fd.git
